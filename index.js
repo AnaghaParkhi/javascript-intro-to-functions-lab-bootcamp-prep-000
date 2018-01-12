@@ -2,7 +2,7 @@ function shout(string){
   return string.toUpperCase()
 }
 
-sayHiToGrandma(){
+function sayHiToGrandma(){
   
   var uppercase = "HELLO!"
  
